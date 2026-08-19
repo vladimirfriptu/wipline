@@ -334,7 +334,7 @@ every surface agrees.
 ## Development
 
 ```bash
-node --test 'test/*.test.mjs'
+node --test test/*.test.mjs
 ```
 
 No dependencies, no build. `lib/phases.mjs` is pure — the fold and the vocabulary,

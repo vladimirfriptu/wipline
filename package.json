@@ -9,7 +9,7 @@
     "wipline": "bin/wipline.mjs",
     "wipline-tui": "bin/wipline-tui.mjs"
   },
-  "scripts": { "test": "node --test 'test/*.test.mjs'" },
+  "scripts": { "test": "node --test test/*.test.mjs" },
   "keywords": ["cli", "tui", "workflow", "pipeline", "claude-code", "developer-tools"],
   "repository": { "type": "git", "url": "git+https://github.com/vladimirfriptu/wipline.git" },
   "files": ["bin", "lib", "README.md", "LICENSE"]

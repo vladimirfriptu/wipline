@@ -67,7 +67,7 @@ state directory.
 
 ## The model
 
-**Fifteen phases or five — you decide.** The phase list lives in config, and the
+**A short pipeline or a long one — you decide.** The phase list lives in config, and the
 default is a worked example rather than a recommendation.
 
 A phase carries one of six states:

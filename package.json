@@ -1,0 +1,16 @@
+{
+  "name": "wipline",
+  "version": "0.1.0",
+  "description": "Track which phase of your pipeline each task has reached, and let your automation fill it in",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "bin": {
+    "wipline": "bin/wipline.mjs",
+    "wipline-tui": "bin/wipline-tui.mjs"
+  },
+  "scripts": { "test": "node --test 'test/*.test.mjs'" },
+  "keywords": ["cli", "tui", "workflow", "pipeline", "claude-code", "developer-tools"],
+  "repository": { "type": "git", "url": "git+https://github.com/vladimirfriptu/wipline.git" },
+  "files": ["bin", "lib", "README.md", "LICENSE"]
+}

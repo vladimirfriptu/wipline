@@ -1,5 +1,7 @@
 # wipline
 
+**English** · [Українська](README.ua.md)
+
 Tracks which phase of your pipeline each task has reached, in a terminal pane you
 keep open, and lets your automation fill it in.
 
